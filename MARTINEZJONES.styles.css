@@ -182,7 +182,7 @@ section{
 }
 
 /* ---------- EXTRA SMALL SCREEN STYLES ---------- */
-@media (max-width: 595px) {
+@media (max-width: 620px) {
     header, footer{
         background-color: var(--pink);
         color: var(--white);
